@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node": "18.x"
+    "node": "26.x"
   },
   "dependencies": {
     "chart.js": "^4.4.4",
